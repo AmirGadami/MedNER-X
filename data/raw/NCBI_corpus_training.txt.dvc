@@ -1,0 +1,5 @@
+outs:
+- md5: 820e8ad80b1c9599adb20b9d8f704fc5
+  size: 960049
+  hash: md5
+  path: NCBI_corpus_training.txt
